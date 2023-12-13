@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "273018696730",
+    "firebase_url": "https://enspireonline-14ebd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "enspireonline-14ebd",
+    "storage_bucket": "enspireonline-14ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273018696730:android:7febe6d90eee73e0654da3",
+        "android_client_info": {
+          "package_name": "vn.enspire.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273018696730-8qghk4ovncaffemv5stcb3qdrmk0umlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8IkMTGXlYaSUz0RX7ZXHbTvuQ2UAgyVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273018696730-8qghk4ovncaffemv5stcb3qdrmk0umlj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273018696730-29a574pkfcqlnnj253u4sa4vqf1jnngr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.enspire.online"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
